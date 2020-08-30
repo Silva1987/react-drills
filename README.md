@@ -1,4 +1,4 @@
-<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
+<img src="https://s3.amazonaws.com/nucamp/readme-logo.png" width="250" align="right">
 
 # Project Summary
 
@@ -68,7 +68,7 @@ export default App;
 
 <br />
 
-<img src="https://github.com/DevMountain/react-drills/blob/assets/1g.gif" />
+<img src="https://github.com/nucamp/react-drills/blob/assets/1g.gif" />
 
 ### Question #2
 
@@ -110,7 +110,7 @@ export default App;
 
 <br />
 
-<img src="https://github.com/DevMountain/react-drills/blob/assets/2.png" />
+<img src="https://github.com/nucamp/react-drills/blob/assets/2.png" />
 
 ### Question #3
 
@@ -166,7 +166,7 @@ export default App;
 
 <br />
 
-<img src="https://github.com/DevMountain/react-drills/blob/assets/3g.gif" />
+<img src="https://github.com/nucamp/react-drills/blob/assets/3g.gif" />
 
 ## Set 2 - State, Class Methods, Capturing User Input, Props, Multiple Components
 
@@ -257,7 +257,7 @@ export default Login;
 
 <br />
 
-<img src="https://github.com/DevMountain/react-drills/blob/assets/4g.gif" />
+<img src="https://github.com/nucamp/react-drills/blob/assets/4g.gif" />
 
 ### Question #5
 
@@ -313,7 +313,7 @@ export default class Image extends Component {
 
 <br />
 
-<img src="https://github.com/DevMountain/react-drills/blob/assets/5.png" />
+<img src="https://github.com/nucamp/react-drills/blob/assets/5.png" />
 
 ### Question #6
 
@@ -404,7 +404,7 @@ export default class ToDo extends Component {
 
 <br />
 
-<img src="https://github.com/DevMountain/react-drills/blob/assets/6-7g.gif" />
+<img src="https://github.com/nucamp/react-drills/blob/assets/6-7g.gif" />
 
 ### Question #7
 
